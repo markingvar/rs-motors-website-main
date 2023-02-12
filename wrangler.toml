@@ -1,0 +1,7 @@
+name = "rs-motors-website"
+
+compatibility_date = "2023-02-12"
+
+kv_namespaces = [
+  { binding = "POSTS", id = "ecddd6bea3c44fd8baca1c8e17554764", preview_id = "341c50a3c3a544cda1f5db126b91c79d" }
+]
